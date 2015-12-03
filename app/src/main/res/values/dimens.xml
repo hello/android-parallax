@@ -1,0 +1,19 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="gap_small">10dp</dimen>
+    <dimen name="gap_medium">15dp</dimen>
+    <dimen name="gap_large">20dp</dimen>
+
+    <dimen name="parallax_clip">20dp</dimen>
+    <dimen name="divider_size">1px</dimen>
+
+    <!-- Cards -->
+
+    <dimen name="gap_card_horizontal">12dp</dimen>
+    <dimen name="gap_card_vertical">16dp</dimen>
+    <dimen name="gap_card_inter">8dp</dimen>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Parallax</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_ambient_light">Ambient light</string>
+    <string name="title_associating">Correlations</string>
+    <string name="title_duration">Sleep duration</string>
+    <string name="title_habits">Your sleep habits</string>
+    <string name="title_humidity">The humidity in your room is high</string>
+    <string name="title_light_exposure">There‘s too much light in your room</string>
+    <string name="title_movement">You move too much during your sleep</string>
+    <string name="title_particulates">The air quality in your room is crappy</string>
+    <string name="title_partner">Your partner is keeping you up at night</string>
+    <string name="title_sense">Your Sense is trying to tell you something</string>
+    <string name="title_sound">It‘s awfully noisy in your room at night</string>
+    <string name="title_temperature">Your bedroom is too warm</string>
+    <string name="title_waking_up">You are waking up at poor times</string>
+</resources>
